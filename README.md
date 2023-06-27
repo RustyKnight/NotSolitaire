@@ -1,6 +1,8 @@
 # NotSolitaire
 A **very** basic implementation of solitaire using Swing
 
+<img src="Screenshot.png">
+
 This is **NOT** a full implementation and I've deliberatly left some parts incomplere, the intention is to provide a learning jumping off point.
 
 # What could be better
