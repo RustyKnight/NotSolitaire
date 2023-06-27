@@ -9,5 +9,6 @@ This is **NOT** a full implementation and I've deliberatly left some parts incom
 * Support for drag and drop, including multiple card stack
 
 # What could be better
-The card images - they are crap, but they are just a stand in.
-The code could be better decoupled and/or make use of an appropriate rules engine, but the intention is to provide an initial jumping off point.
+* The card images - they are crap, but they are just a stand in.
+* The code could be better decoupled and/or make use of an appropriate rules engine, but the intention is to provide an initial jumping off point.
+* Image scaling is very basic and could use a better overall approach
