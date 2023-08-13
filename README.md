@@ -3,7 +3,7 @@ A **very** basic implementation of solitaire using Swing
 
 <img src="Screenshot.png">
 
-This is **NOT** a full implementation and I've deliberatly left some parts incomplere, the intention is to provide a learning jumping off point.
+This is **NOT** a full implementation and I've deliberatly left some parts incomplete, the intention is to provide a learning jumping off point.
 
 * Support for double clicking the ACE "waste" card so it will automatically is added to the suit pile
 * Support for drag and drop, including multiple card stack
